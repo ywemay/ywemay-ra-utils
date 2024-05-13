@@ -1,0 +1,15 @@
+{
+  "name": "ywemay-ra-utils",
+  "version": "1.0.0",
+  "description": "YWEmay react-admin utilities",
+  "main": "index.js",
+  "repository": "git@github.com:ywemay/ywemay-ra-utils.git",
+  "author": "Chibuc Dorin",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-admin": "^4.16.17"
+  },
+  "devDependencies": {
+    "react-admin": "^4.16.17"
+  }
+}
