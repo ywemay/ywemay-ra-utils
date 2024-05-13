@@ -1,6 +1,6 @@
 {
   "name": "ywemay-ra-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "YWEmay react-admin utilities",
   "main": "index.js",
   "repository": "git@github.com:ywemay/ywemay-ra-utils.git",
